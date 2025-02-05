@@ -6,3 +6,10 @@ Dentre as atividades propostas foram realizadas três interações com imagens d
 
 A primeira a ser feita foi a leitura de texto em uma imagem(OCR), segue abaixo o momento que foi executado.
 ![NF de compras do mercado](https://github.com/Alerenault/AzureVision/blob/main/Screenshot/OCR.png)
+
+
+A segunda foi a detecção de rosto(Face detection), o que pode ser muito útil para uma liberação de entrada em um prédio por exemplo.
+![Reconhecimento facial](https://github.com/Alerenault/AzureVision/blob/main/Screenshot/FaceDetection.png)
+
+A terceira e última foi a descrição da imagem(Image Caption), muito útil para que seja utilizadas para que seja narrado para pessoas portadores de deficiência visual por exemplo
+![Reconhecimento facial](https://github.com/Alerenault/AzureVision/blob/main/Screenshot/ImageCaption.png)
