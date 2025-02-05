@@ -12,4 +12,4 @@ A segunda foi a detecção de rosto(Face detection), o que pode ser muito útil 
 ![Reconhecimento facial](https://github.com/Alerenault/AzureVision/blob/main/Screenshot/FaceDetection.png)
 
 A terceira e última foi a descrição da imagem(Image Caption), muito útil para que seja utilizadas para que seja narrado para pessoas portadores de deficiência visual por exemplo
-![Reconhecimento facial](https://github.com/Alerenault/AzureVision/blob/main/Screenshot/ImageCaption.png)
+![Reconhecimento facial](https://github.com/Alerenault/AzureVision/blob/main/Screenshot/ImageCatpion.png)
